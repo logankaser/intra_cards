@@ -2,3 +2,5 @@
 .nfs*
 ._*
 *.swp*
+dist
+build
